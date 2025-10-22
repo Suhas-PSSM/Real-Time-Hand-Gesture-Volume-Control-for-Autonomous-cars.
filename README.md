@@ -22,7 +22,7 @@ Designed for **autonomous and next-gen vehicles**, this project enhances the in-
 
 ## 🎥 Demo
 
-![Gesture Volume Demo](assets/demo.gif)
+![Gesture Volume Demo](https://github.com/Suhas-PSSM/Real-Time-Hand-Gesture-Volume-Control-for-Autonomous-cars./blob/main/demo%20video.mp4)
 
 ---
 
